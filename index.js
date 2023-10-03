@@ -7,7 +7,7 @@ const createCommands = require('./lib/core/create')
 
 // 【Usage配置】帮助信息的首行提示
 program
-  .name('xun')
+  .name('xunvue')
   // .usage('[global options] command') // 自定义覆盖默认的
 
 // 【Version版本配置】查看版本号，动态获取package.json里的version
