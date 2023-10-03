@@ -9,9 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["xun", "cli"],
+  "keywords": [
+    "xun",
+    "cli"
+  ],
   "author": "coding327",
   "license": "MIT",
+  "homepage": "https://github.com/coding327/xun_cli",
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
   "dependencies": {
     "commander": "^11.0.0",
     "download-git-repo": "^3.0.2",
